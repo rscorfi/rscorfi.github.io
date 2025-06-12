@@ -11,8 +11,7 @@ header {
     background: linear-gradient(to right, blue, darkblue);
     color: #fff;    
     font-size: 1.5rem;
-    font-weight: bold;
-    /* position: fixed; */
+    font-weight: bold;    
     width: 100%;
     top: 0;
     padding: 30px;
