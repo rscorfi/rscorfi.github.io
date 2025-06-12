@@ -1,4 +1,4 @@
-body{    
+body, footer {    
     background: linear-gradient(to right, yellow, orange);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
