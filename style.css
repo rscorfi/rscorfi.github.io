@@ -9,9 +9,13 @@ header, h2 {
 
 header {
     background: linear-gradient(to right, blue, darkblue);
-    color: white;    
+    color: #fff;    
     font-size: 1.5rem;
     font-weight: bold;
+    position: fixed;
+    width: 95%;
+    top: 0;
+    padding: 10px;
 }
 
 h2 {
