@@ -29,5 +29,7 @@ figcaption {
 }
 
 footer {
+    background: linear-gradient(to right, orange, yellow, red);
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
