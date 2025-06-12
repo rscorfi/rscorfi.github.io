@@ -27,3 +27,7 @@ ul, ol {
 figcaption {
     font-size: 0.6rem;
 }
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+}
