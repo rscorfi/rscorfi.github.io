@@ -1,8 +1,5 @@
 body{    
     background: linear-gradient(to right, yellow, orange);
-}
-
-header, h2, ul, ol, p {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
