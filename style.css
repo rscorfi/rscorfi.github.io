@@ -1,5 +1,5 @@
 body {    
-    background: linear-gradient(to right, rgba(255, 255, 0, 0.459), orange);
+    background: linear-gradient(to right, rgba(255, 255, 0, 0.459), rgba(255, 166, 0, 0.507));
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -34,7 +34,7 @@ figcaption {
 }
 
 footer {
-    background: linear-gradient(to right, orange, yellow, red);
+    background: linear-gradient(to right, rgba(255, 166, 0, 0.5), rgba(255, 255, 0, 0.5), rgba(255, 0, 0, 0.5));
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
